@@ -1,2 +1,3 @@
-# ops_challanges
-this is my ops challanges
+# Table of contents
+
+- [ops challange 02](challange-02.sh)
